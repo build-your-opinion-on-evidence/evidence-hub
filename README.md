@@ -36,4 +36,4 @@ YouTube, Medium, and LinkedIn links will be added to each project's media index 
 
 ## Current status
 
-The subject repositories and project templates are initialized. Enterprise Agentic Orchestration is available as an imported implementation in the [project catalog](PROJECTS.md). Its evaluation has not been rerun as part of this import.
+The subject repositories and project templates are initialized. Enterprise Agentic Orchestration and Queen CBE Platform are available in the [project catalog](PROJECTS.md). Both are imported implementations; their end-to-end evaluations have not been rerun as part of the imports. Queen's source-only snapshot documents the current deployment blockers and excludes source documents, derived indexes, logs, and credentials.
