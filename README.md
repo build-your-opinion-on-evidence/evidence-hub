@@ -36,4 +36,4 @@ YouTube, Medium, and LinkedIn links will be added to each project's media index 
 
 ## Current status
 
-The repositories and project templates are being initialized. No completed experiments are listed in this hub yet.
+The subject repositories and project templates are initialized. Enterprise Agentic Orchestration is available as an imported implementation in the [project catalog](PROJECTS.md). Its evaluation has not been rerun as part of this import.
